@@ -1,3 +1,6 @@
+CÁI NÀY ĐỂ PULL VỀ CHỨ CHẢ CÓ GÌ :D 
+need thay đổi ip trong inve->mycluter-> hosts
+
 # Deploy a Production Ready Kubernetes Cluster
 
 ![Kubernetes Logo](https://raw.githubusercontent.com/kubernetes-sigs/kubespray/master/docs/img/kubernetes-logo.png)
