@@ -1,4 +1,4 @@
-CÁI NÀY ĐỂ PULL VỀ CHỨ CHẢ CÓ GÌ :D 
+CÁI NÀY PUSH LÊN ĐỂ PULL VỀ VÌ LƯỜI CHỨ CHẢ CÓ GÌ :D 
 need thay đổi ip trong inve->mycluter-> hosts
 
 # Deploy a Production Ready Kubernetes Cluster
